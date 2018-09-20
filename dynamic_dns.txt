@@ -1,0 +1,3 @@
+# https://gist.github.com/Ni-Knight/e742a50f9afe455bd44c68fcf8584b71
+# Raw:
+https://gist.githubusercontent.com/Ni-Knight/e742a50f9afe455bd44c68fcf8584b71/raw/bc2b769e89aa3e169f13f100c62445c2b861381c/dynamic-dns.txt
